@@ -45,18 +45,18 @@ body {
     width: 145px;
     text-align: center;
   }
-  h2
-  .alura-logo {
+
+  h2.alura-logo {
     width: 40px;
     position: absolute;
     top: 10px;
     right: 10px;
   }
+
   h3{
     font-size: cover ;
     color: #ffffff;
   }
-
 
 @media screen and (max-width: 900px) {
 }
