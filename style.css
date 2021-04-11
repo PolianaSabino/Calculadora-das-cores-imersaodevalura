@@ -30,7 +30,7 @@ body {
   
   .calculadora {
     width: 264px;
-    height: 360px;
+    height:360px;
     background-image: url('https://i.imgur.com/MKeJOnI.png');
     margin: 0 auto;
     position: relative;
@@ -39,26 +39,27 @@ body {
   h2 {
     position: absolute;
     font-size: 18px;
-    font-weight:bold;
+    font-weight: bold;
     top: 160px;
     left: calc(50% - 72.5px);
     width: 145px;
     text-align: center;
   }
 
-  h2.alura-logo {
+   h2.alura-logo {
     width: 40px;
     position: absolute;
     top: 10px;
-    right: 10px;
+    right:10px;
   }
 
-  h3 {
+  h3{
     font-size: cover ;
     color: #ffffff;
   }
 
-@media screen and (max-width: 900px) {
+@media screen and (max-width: 700px) {
 }
+
 @media screen and (max-width: 400px) {
 }
