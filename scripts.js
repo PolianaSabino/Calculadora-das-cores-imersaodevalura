@@ -9,3 +9,4 @@ var operacao = prompt("Digite 1 para somar: ")
   document.write("<h2>" + primeiroValor + " + " + segundoValor + " = " + resultado + "</h2>")
 } else {
   document.write ("<h2>Opção inválida</2>")
+}
