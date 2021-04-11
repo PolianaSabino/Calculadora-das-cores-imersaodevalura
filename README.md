@@ -1,2 +1,2 @@
-# Calculadora das cores - Iimersaodevalura
+# Calculadora das cores - Imersão dev Alura
 Calculadora das cores primarias, descobrindo as cores secundárias.
