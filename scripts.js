@@ -8,5 +8,5 @@ var operacao = prompt("Digite 1 para somar: ")
   if (operacao == 1) { var resultado = primeiroValor + segundoValor
   document.write("<h2>" + primeiroValor + " + " + segundoValor + " = " + resultado + "</h2>")
 } else {
-  var resposta = document.write ("<h2>Opção inválida</2>")
+  document.write ("<h2>Opção inválida</2>")
 }
